@@ -3,8 +3,16 @@
 # 🔐 ¡Hola Mundo Cibernético! 👋 
 ### 🛡️ *Especialista en Ciberseguridad • Analista de Riesgos • Docente de Informática*
 
+---
+
+## 📚 **Materias que Imparto**
+
 <div align="center">
-<img src="https://media.giphy.com/media/hv5A5KzgqejvWQYx3c/giphy.gif" width="400" />
+
+`🛡️` **Seguridad de Entornos** · `🌍` **Programación Web**<br>
+`🚀` **Fundamentos de Programación** · `🧠` **Programación Declarativa**<br>
+`📚` **Teoría de Lenguajes de programacion**
+
 </div>
 
 ---
