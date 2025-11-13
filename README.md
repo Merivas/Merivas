@@ -1,8 +1,10 @@
+![Header](./github-header-banner.png)
+
 # 🔐 ¡Hola Mundo Cibernético! 👋 
 ### 🛡️ *Especialista en Ciberseguridad • Analista de Riesgos • Docente de Informática*
 
 <div align="center">
-![Header](./github-header-banner.png)
+<img src="https://media.giphy.com/media/hv5A5KzgqejvWQYx3c/giphy.gif" width="400" />
 </div>
 
 ---
