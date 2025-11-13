@@ -2,7 +2,7 @@
 ### 🛡️ *Especialista en Ciberseguridad • Analista de Riesgos • Docente de Informática*
 
 <div align="center">
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 </div>
 
 ---
